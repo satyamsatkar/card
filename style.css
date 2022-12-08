@@ -1,0 +1,136 @@
+*
+{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+body{
+    width:100%
+
+}
+.main-op{
+margin-top: 50px;
+}
+.main{
+    margin:0 auto;
+    width:auto;
+    height: auto;
+    text-align: center;
+   
+    display: flex;
+    justify-content: space-around;
+}
+.main img{
+    border-radius: 10px;
+}
+.img-1{
+    position: relative;
+}
+.text-1{
+    position: absolute;
+    text-align: left;
+    top: 10%;
+    left:5%;
+    line-height: 1.5;
+    color: aliceblue;
+}
+.text-1 h2{
+    width: 50%;
+}
+.img-1 .button-1 button{
+    position: absolute;
+    bottom:10%;
+    left:5%;
+
+}
+.img-2{
+    position: relative;
+}
+.text-2{
+    position: absolute;
+    text-align: left;
+    top: 10%;
+    left:5%;
+    line-height: 1.5;
+    color: aliceblue;
+}
+.text-2 h2{
+    width: 50%;
+}
+.img-2 .button-2 button{
+    position: absolute;
+    bottom:10%;
+    left:5%;
+
+}
+.main-2{
+    margin: 50px;
+    display: flex;
+    justify-content: space-around;
+}
+.img-3{
+   border: 1px solid rgb(192, 189, 189);
+   display: flex;
+   padding: 5px;
+   border-radius: 10px;
+   justify-content: space-between;
+
+}
+.img-3 img{
+    width:70px;
+    height: 100px;
+    border-radius: 10px;
+    margin-right: 5px;
+
+}
+.img-3 .p-flex{
+    display: flex;
+    margin-top: 10px;
+ 
+}
+.img-3 .p-flex .left{
+    border: 1px solid rgb(170, 168, 168);
+    border-radius: 5px;
+    padding: 1px;
+    margin: 1px;
+}
+.img-3 .p-flex .right{
+    border: 1px solid rgb(170, 168, 168);
+    border-radius: 5px;
+    padding: 1px;
+    margin: 1px;
+}
+.img-4{
+    border: 1px solid rgb(170, 168, 168);
+    display: flex;
+    padding: 5px;
+    border-radius: 10px;
+ 
+ }
+.img-4 img{
+    width:70px;
+    height: 100px;
+    border-radius: 10px;
+    margin-right: 5px;
+
+}
+.img-4 .p-flex-2{
+    display: flex;
+    margin-top: 10px;
+ 
+}
+.img-4 .p-flex-2 .left-2{
+    border: 1px solid rgb(170, 168, 168);
+    border-radius: 5px;
+    padding: 1px;
+    margin: 1px;
+}
+.img-4 .p-flex-2 .right-2{
+    border: 1px solid rgb(170, 168, 168);
+    border-radius: 5px;
+    padding: 1px;
+    margin: 1px;
+}
+
+
+
